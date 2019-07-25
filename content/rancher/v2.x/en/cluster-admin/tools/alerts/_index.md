@@ -97,8 +97,8 @@ This alert type monitors for events that occur on a specific node.
 1. Choose an event to trigger the alert.
 
   - **Not Ready**: Sends you an alert when the node is unresponsive.
-  - **CPU usage over**: Sends you an alert when the node raises above an entered percentage of its processing allocation.
-  - **Mem usage over**: Sends you an alert when the node raises above an entered percentage of its memory allocation.
+  - **CPU reservation over**: Sends you an alert when the node raises above an entered percentage of its processing allocation.
+  - **Mem reservation over**: Sends you an alert when the node raises above an entered percentage of its memory allocation.
 
 1. Select the urgency level of the alert.
 
